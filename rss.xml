@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xml:base="https://destelbergen.paddlecms.net/narrowcasting-jcc-2/rss.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="https://search.yahoo.com/mrss/">
-  <channel>
-    <title>Narrowcasting JCC 2 </title>
-    <link>https://destelbergen.paddlecms.net/narrowcasting-jcc-2/rss.xml</link>
-    <description></description>
-    <language>nl</language>
+<rss version="2.0">
     
     <item>
   <title>Q8-winkel op Dendermondesteenweg &#039;s nachts verplicht gesloten</title>
